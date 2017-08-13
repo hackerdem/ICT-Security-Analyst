@@ -61,3 +61,24 @@ h1{
 .listcom{
 	margin-top:auto;
 }
+/* social media list goes here*/
+
+
+
+.well{
+  background-color: #FF9900;
+  border-color: #FF9900;
+  border-style: none;
+}
+
+
+@media screen and (max-width: 767px) {
+.leftcolor{
+	display:none;
+}
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+  .row.content {height:auto;}
+}
