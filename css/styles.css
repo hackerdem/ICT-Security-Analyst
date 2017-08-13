@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size:16px;
+	text-align:justify;
+
+	width:98%;
+}
+.affix{
+	background-color:#FF9900;
+	height:100vh;
+	text-align: center;
+}
+
+.first{
+	background-color:#FFFFFF;
+	
+}
+
+.first p{
+	text-align:justify;
+}
+
+.skills{
+	background-color:#FFFFFF;
+}
+h3{
+	font-weight: bold;
+}
+h4{
+	font-weight: bold;
+}
+h2{
+	font-weight: bold;
+}
+h1{
+	font-weight: bold;
+}
+.joblist li{
+	font-weight: bold;
+}
+.first{
+	border-bottom-style:solid;
+	border-bottom-color:#FF9900;
+	margin-left:20px;
+}
+.caption{
+	margin-left:20px;
+}
+.last{
+	margin-bottom:45px;
+}
+.communication{
+	margin-top:20px;
+	text-align:right;
+	
+}
+.communication ul{
+	list-style:none;
+}
+.listcom{
+	margin-top:auto;
+}

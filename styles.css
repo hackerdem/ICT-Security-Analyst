@@ -1,0 +1,48 @@
+
+/* social media list goes here*/
+.iconna{
+  margin:0 auto;
+  padding:10px;
+  float:left;
+  width:40px;
+  height:40px;
+}
+.iconna img {
+
+    max-width: 130%;
+    max-height: 130%;
+}
+#icons{
+  height:45px;
+  display:inline-block;
+  text-align: center;
+  background-color:#FFFFFF;
+}
+
+
+ul.list-group {
+  width:70%;
+  clear: both;
+  display: inline-block;
+  content: "";
+  margin-top: 40%;
+}
+.well{
+  background-color: #FF9900;
+  border-color: #FF9900;
+  border-style: none;
+}
+/*Set proflie image height and width */
+#profileimage{
+  width: 150px;
+  height:150px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+  .row.content {height:auto;}
+}
