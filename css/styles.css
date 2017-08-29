@@ -7,7 +7,7 @@ body{
 	width:98%;
 }
 .affix{
-	background-color:#FF9900;
+	background-color:#3399FF;
 	height:100vh;
 	text-align: center;
 }
@@ -41,7 +41,7 @@ h1{
 }
 .first{
 	border-bottom-style:solid;
-	border-bottom-color:#FF9900;
+	border-bottom-color:#3399FF;
 	margin-left:20px;
 }
 .caption{
@@ -66,8 +66,8 @@ h1{
 
 
 .well{
-  background-color: #FF9900;
-  border-color: #FF9900;
+  background-color: #3399FF;
+  border-color: #3399FF;
   border-style: none;
 }
 
